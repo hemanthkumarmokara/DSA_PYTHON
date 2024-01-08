@@ -1,0 +1,2 @@
+
+    obj.finsertion(7)
